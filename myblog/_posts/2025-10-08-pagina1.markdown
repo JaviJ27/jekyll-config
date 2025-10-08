@@ -22,4 +22,4 @@ Puedes leer más sobre Jekyll en su web oficial: [Jekyll](https://jekyllrb.com).
 
 ![Logo de Jekyll](https://jekyllrb.com/img/logo-2x.png)
 
-Este texto es para hacer una prueba 5
+Este texto es para hacer una prueba 6
