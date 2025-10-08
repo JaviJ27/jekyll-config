@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Hola Jekyll — Primer post de prueba"
+date: 2025-10-08 10:00:00 +0200
+categories: pruebas
+tags: [jekyll, inicio]
+---
+
+# Hola Jekyll
+
+Bienvenido a este post de prueba. Aquí comprobaremos que Jekyll transforma Markdown en HTML correctamente.
+
+Este párrafo introduce el contenido y muestra cómo Jekyll renderiza texto simple.
+
+## Lista de comprobación
+
+- Crear archivo en `_posts/`
+- Añadir front matter
+- Ejecutar `bundle exec jekyll serve`
+
+Puedes leer más sobre Jekyll en su web oficial: [Jekyll](https://jekyllrb.com).
+
+![Logo de Jekyll](https://jekyllrb.com/img/logo-2x.png)

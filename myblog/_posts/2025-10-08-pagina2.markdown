@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Listas y enlaces — ejemplos"
+date: 2025-10-09 11:30:00 +0200
+categories: pruebas
+tags: [markdown, listas, enlaces]
+---
+
+# Listas y enlaces
+
+En este post veremos ejemplos de listas ordenadas y no ordenadas, además de enlaces útiles.
+
+Un párrafo explicativo que precede a las listas. Las listas ayudan a organizar información de forma clara.
+
+## Lista no ordenada
+
+- Elemento uno
+  - Sub-elemento A
+  - Sub-elemento B
+- Elemento dos
+- Elemento tres
+
+## Lista ordenada
+
+1. Paso uno: prepara el entorno
+2. Paso dos: escribe el post
+3. Paso tres: sirve el sitio con Jekyll
+
+Si necesitas recursos sobre Markdown, visita este recurso: [Guía rápida de Markdown](https://www.markdownguide.org).
+
+![Ejemplo de lista](https://placehold.co/800x200?text=Ejemplo+de+lista)

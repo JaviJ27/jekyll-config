@@ -1,0 +1,14 @@
+# Archivos y carpetas de Jekyll que no se deben subir a Git
+myblog/_site/
+myblog/_posts/_site/
+myblog/.sass-cache/
+myblog/.jekyll-cache/
+myblog/.jekyll-metadata
+myblog/.bundle/
+
+# Archivos de dependencias de Ruby
+myblog/Gemfile.lock
+
+# Archivos del sistema (por si acaso)
+myblog/.DS_Store
+myblog/Thumbs.db
